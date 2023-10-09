@@ -35,7 +35,7 @@ Run the command interpreter using the following command:
 javascript
 ------------------------------------
 ==Code==
-
+--
 python3 console.py
 
 This will launch the command interpreter, and you'll see a prompt where you can enter commands.
@@ -50,6 +50,7 @@ create: Create a new object (e.g., user, state, city).
 sql
 ------------------------------------
 ==Code==
+--
 create User
 show: Retrieve information about an object.
 
@@ -57,6 +58,7 @@ show: Retrieve information about an object.
 sql
 ------------------------------------
 ==Code==
+--
 show User 1234-5678
 update: Update attributes of an object.
 
@@ -64,6 +66,7 @@ update: Update attributes of an object.
 sql
 ------------------------------------
 ==Code==
+--
 update Place 8765-4321 name "New Name"
 destroy: Remove an object.
 
@@ -71,6 +74,7 @@ destroy: Remove an object.
 yaml
 ------------------------------------
 ==Code==
+--
 destroy State 2468-1357
 all: List all objects of a specific type.
 
@@ -78,6 +82,7 @@ all: List all objects of a specific type.
 css
 ------------------------------------
 ==Code==
+--
 all City
 quit or EOF: Exit the command interpreter.
 
@@ -90,6 +95,7 @@ Creating a new user:
 sql
 ------------------------------------
 ==Code==
+--
     create User
         Retrieving information about a place:
         
@@ -97,6 +103,7 @@ sql
 sql
 ------------------------------------
 ==Code==
+--
     show Place 1234-5678
         Updating the name of a city:
         
@@ -104,6 +111,7 @@ sql
 sql
 ------------------------------------
 ==Code==
+--
     update City 8765-4321 name "New York"
         Destroying a state:
         
@@ -111,6 +119,7 @@ sql
 yaml
 ------------------------------------
 ==Code==
+--
     destroy State 2468-1357
 
 ......................................................................
