@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import cmd
 
+
 class HBNBCommand(cmd.Cmd):
     """
     Command interpreter for the AirBnB clone.
@@ -67,6 +68,7 @@ class HBNBCommand(cmd.Cmd):
         Example: update BaseModel 1234-5678 name "John"
         """
         pass
+
 
 if __name__ == '__main__':
     HBNBCommand().cmdloop()
