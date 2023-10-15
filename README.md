@@ -110,3 +110,4 @@ UUID (Universally Unique Identifier) is a 128-bit identifier used to uniquely id
 * How to Handle Named Arguments in a Function
 ----------------------------------------------------
 To handle named arguments in a function, define the function with named parameters in its parameter list. When calling the function, provide values for these named parameters in the form of keyword arguments. This allows you to specify which parameter each argument corresponds to explicitly.
+=============================================================================
