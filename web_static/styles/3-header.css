@@ -13,7 +13,7 @@ header {
 header .logo {
     background-image: url('../images/logo.png');
     background-size: contain;
-    width: 50px; /* Adjust the width as needed */
+    width: 100px; /* Adjust the width as needed */
     height: 50px; /* Adjust the height as needed */
     margin-left: 20px; /* 20px space at the left */
 }
