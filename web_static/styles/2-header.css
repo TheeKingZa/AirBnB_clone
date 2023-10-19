@@ -1,0 +1,10 @@
+/* Styles for the header */
+header {
+    background-color: #FF0000; /* Red background */
+    height: 70px;
+    width: 100%;
+    text-align: center; /* Center-align text */
+    line-height: 70px;
+    color: white; /* White text color */
+    font-size: 24px; /* Font size */
+}

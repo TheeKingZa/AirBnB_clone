@@ -1,0 +1,14 @@
+/* Styles for the footer */
+footer {
+    background-color: #00FF00; /* Green background */
+    height: 60px;
+    width: 100%;
+    text-align: center; /* Center-align text */
+    position: absolute; /* Fixed to the bottom */
+    bottom: 0;
+    color: white; /* White text color */
+    font-size: 20px; /* Font size */
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%); /* Vertically center the text */
+}
