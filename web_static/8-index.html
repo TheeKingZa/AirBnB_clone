@@ -1,0 +1,91 @@
+<html>
+
+<head>
+    <title>Header and Footer Example</title>
+    <link rel="stylesheet" type="text/css" href="styles/4-common.css">
+    <link rel="stylesheet" type="text/css" href="styles/3-header.css">
+    <link rel="stylesheet" type="text/css" href="styles/3-footer.css">
+    <link rel="stylesheet" type="text/css" href="styles/6-filters.css">
+    <link rel="stylesheet" type="text/css" href="styles/8-places.css">
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"> <!-- Favicon for the browser tab -->
+</head>
+
+<body>
+    <header>
+        <div class="logo"></div>
+    </header>
+    <div class="container">
+        <section class="filters">
+            <div class="locations">
+                <h3>States</h3>
+                <ul class="popover">
+                    <li>State 1
+                        <ul>
+                            <li>City 1</li>
+                            <li>City 2</li>
+                        </ul>
+                    </li>
+                    <li>State 2
+                        <ul>
+                            <li>City 3</li>
+                            <li>City 4</li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+            <div class="amenities">
+                <h3>Amenities</h3>
+                <ul class="popover">
+                    <li>One</li>
+                    <li>Two</li>
+                </ul>
+            </div>
+            <button class="search-button">Search</button>
+        </section>
+	
+        <section class="places">
+            <article>
+			
+				<div class="place-header">
+                <div class="container">
+					<div class="column">
+					<h2>Place 1</h2>
+					</div>
+					<div class="column">
+					<div class="price_by_night">
+                    <div class="price-tag">		$100
+					</div>
+					</div>
+                </div>
+				</div>
+			<div class="place-info">
+                <div class="information">
+                    <div class="max_guest">
+                        <img src="images/icon_guest.png" alt="Guest Icon">
+                        4 guests
+                    </div>
+                    <div class="number_rooms">
+                        <img src="images/icon_bed.png" alt="Bed Icon">
+                        2 bedrooms
+                    </div>
+                    <div class="number_bathrooms">
+                        <img src="images/icon_bath.png" alt="Bath Icon">
+                        2 bathrooms
+                    </div>
+                </div>
+                <div class="user">
+                    <strong>Owner: </strong>
+                </div>
+                <div class="description">
+                    Description: Fake description text goes here.
+                </div>
+				</div>
+            </article>
+        </section>
+    </div>
+    <footer>
+        <span>Best School</span>
+    </footer>
+</body>
+
+</html>
