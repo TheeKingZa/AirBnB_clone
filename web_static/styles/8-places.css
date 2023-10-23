@@ -1,0 +1,48 @@
+/* Styles for the price by night */
+.price_by_night {
+    color: #FF5A5F;
+    border: 4px #FF5A5F solid;
+    min-width: 60px;
+    height: 60px;
+    font-size: 30px;
+    text-align: center;
+    padding-right: 10px;
+}
+
+/* Styles for the information section */
+.information {
+    height: 80px;
+    border-top: 1px #DDDDDD solid;
+    border-bottom: 1px #DDDDDD solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Styles for the max_guest, number_rooms, and number_bathrooms sections */
+.max_guest, .number_rooms, .number_bathrooms {
+    width: 100px;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+}
+
+/* Styles for the user section */
+.user {
+    font-weight: bold;
+}
+
+/* Styles for the description section */
+.description {
+    /* Add your description styles here */
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+}
+
+.column {
+	flex: 1;
+	padding: 10px;
+}
