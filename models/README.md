@@ -5,7 +5,7 @@
 Before starting, please read the **AirBnB** concept page.
 # Concepts
   * [Python Packages](https://intranet.alxswe.com/concepts/66)
-  *[Packages](https://docs.python.org/3.4/tutorial/modules.html#packages)
+   *[Packages](https://docs.python.org/3.4/tutorial/modules.html#packages)
   * [AirBnB clone](https://intranet.alxswe.com/concepts/74)
   * [AirBnB website](https://www.airbnb.co.za)
 
