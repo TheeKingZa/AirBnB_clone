@@ -3,11 +3,11 @@
 [<..]()
 ---
 Before starting, please read the **AirBnB** concept page.
-  Concepts
-    * [Python Packages](https://intranet.alxswe.com/concepts/66)
-      *[Packages](https://docs.python.org/3.4/tutorial/modules.html#packages)
-    * [AirBnB clone](https://intranet.alxswe.com/concepts/74)
-    * [AirBnB website](https://www.airbnb.co.za)
+# Concepts
+  * [Python Packages](https://intranet.alxswe.com/concepts/66)
+  *[Packages](https://docs.python.org/3.4/tutorial/modules.html#packages)
+  * [AirBnB clone](https://intranet.alxswe.com/concepts/74)
+  * [AirBnB website](https://www.airbnb.co.za)
 
 # **First step: Write a command interpreter to manage your AirBnB objects.**
     This is the first step towards building your first full web application: the **AirBnB clone**. This first step is very important because you will use what you build during this project with all other following projects: HTML/CSS templating, database storage, API, front-end integration…
