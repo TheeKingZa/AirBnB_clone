@@ -1,40 +1,44 @@
 # AirBnB Clone
 # [Authors](https://github.com/TheeKingZa/AirBnB_clone/tree/master/authors) 
 
-## Description
+# Description
 
-This project is an implementation of a simplified version of AirBnB's backend system. It includes a command-line interpreter and a storage engine for managing data related to AirBnB-like objects.
+    This project is an implementation of a simplified version of AirBnB's backend system. It includes a command-line interpreter and a storage engine for managing data related to AirBnB-like objects.
+---
+# Command Interpreter:
+    How to Start
+    
+    To start the command interpreter, run the `console.py` script.
 
-## Command Interpreter
+      bashCode
+        ./console.py
 
-### How to Start
-To start the command interpreter, run the `console.py` script.
+    How to Use
+    The command interpreter supports various commands for managing objects.
+    You can use commands like 
+    * create
+    * show
+    * destroy
+    * update
+    * and more
+    to manipulate objects.
+    For a full list of available commands,
+    'type' help within the interpreter.
+---
+# Examples
+    Here are some example commands:
 
---bash
-----
-./console.py
+    1. Create a new object:
 
-How to Use
-The command interpreter supports various commands for managing objects. You can use commands like create, show, destroy, update, and more to manipulate objects. For a full list of available commands, type help within the interpreter.
+    (hbnb) create BaseModel
 
-Examples
-Here are some example commands:
+    2. Show an object:
+    
+    (hbnb) show BaseModel 12345
 
-1. Create a new object:
+    3.Update an object:
+    (hbnb) update BaseModel 12345 attribute "new value"
+---
 
-(hbnb) create BaseModel
-
-2. Show an object:
-(hbnb) show BaseModel 12345
-
-3.Update an object:
-(hbnb) update BaseModel 12345 attribute "new value"
-
-
-
--------
-* Pule Mathikha
-* Ahmed saleh Solimansaleh Saleh
-===================================
 
 [^](#airbnb-clone)
