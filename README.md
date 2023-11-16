@@ -21,7 +21,7 @@ Read or watch:
 
 # NEED TO KNOW?
 * [How to create a Python package?](#how-to-create-a-python-package)
-* [How to create a command interpreter in Python using the cmd module?](#how-to-create-a-command-interpreter-in-pythin-using-the-cmd-module)
+* [How to create a command interpreter in Python using the cmd module?](#how-to-create-a-command-interpreter-in-python-using-the-cmd-module)
 * [What is Unit testing and how to implement it in a large project?](#what-is-unit-testing-and-how-to-implement-it-in-a-large-project)
 * [How to serialize and deserialize a Class?](#how-to-serialize-and-deserialize-a-class)
 * [How to write and read a JSON file?](#how-to-write-and-read-a-json-file)
@@ -119,7 +119,7 @@ Now, your Python package is ready for distribution.
                             MyCmd().cmdloop()
 Users can now interact with your application through the command-line interface.
 
-[^](#airbnb-clone)
+[^](#need-to-know)
 
 # What is Unit Testing and How to Implement it in a Large Project
     Overview
@@ -147,7 +147,7 @@ Users can now interact with your application through the command-line interface.
 
 Now, you have a comprehensive unit testing strategy for your large project.
 
-[^](#airbnb-clone)
+[^](#need-to-know)
 
 # How to Serialize and Deserialize a Class
     Overview
@@ -175,7 +175,7 @@ Now, you have a comprehensive unit testing strategy for your large project.
                         deserialized_object = json.loads(serialized_object)
 Now, your class can be easily serialized and deserialized.
 
-[^](#airbnb-clone)
+[^](#need-to-know)
 
 # How to Write and Read a JSON File
     Overview
@@ -198,7 +198,7 @@ Now, your class can be easily serialized and deserialized.
                         with open("output.json", "w") as json_file:
                             json.dump(data, json_file)
 
-[^](#airbnb-clone)
+[^](#need-to-know)
 
 # Reading from JSON File:
     1. Read from JSON File:
@@ -209,7 +209,7 @@ Now, your class can be easily serialized and deserialized.
                         loaded_data = json.load(json_file)
 Now, you can easily write and read data in JSON format.
 
-[^](#airbnb-clone)
+[^](#need-to-know)
 
 # How to Manage Datetime
     Overview
@@ -232,7 +232,7 @@ Now, you can easily write and read data in JSON format.
                 pyCode:
                     specific_datetime = datetime(2023, 1, 1, 12, 0, 0)
 
-[^](#airbnb-clone)
+[^](#need-to-know)
 
 # Formatting Datetime Objects:
     * Format as String:
@@ -251,7 +251,7 @@ Now, you can easily write and read data in JSON format.
                 new_datetime = current_datetime + timedelta(days=7)
 Now, you can efficiently manage datetime in your Python scripts.
 
-[^](#airbnb-clone)
+[^](#need-to-know)
 
 # What is an UUID
     Overview
@@ -278,7 +278,7 @@ Now, you can efficiently manage datetime in your Python scripts.
             print(new_uuid)
 Now, you have a unique identifier (new_uuid) generated using the UUID standard.
 
-[^](#airbnb-clone)
+[^](#need-to-know)
 
 # What is *args and How to Use It
     Overview
@@ -307,7 +307,7 @@ Now, you have a unique identifier (new_uuid) generated using the UUID standard.
                 example_function(1, 2, 3, 4)
 Now, 'example_function' can accept any number of positional arguments after the first one.
 
-[^](#airbnb-clone)
+[^](#need-to-know)
 
 # What is **kwargs and How to Use It
     Overview
@@ -334,7 +334,7 @@ Now, 'example_function' can accept any number of positional arguments after the 
             example_function(1, name="John", age=30)
 Now, 'example_function' can accept any number of keyword arguments after the first positional argument.
 
-[^](#airbnb-clone)
+[^](#need-to-know)
 
 # How to Handle Named Arguments in a Function
     Overview
