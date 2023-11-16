@@ -4,9 +4,9 @@
 # Description
 
     This project is an implementation of a simplified version of AirBnB's backend system. It includes a command-line interpreter and a storage engine for managing data related to AirBnB-like objects.
----
+
 # [Models](https://github.com/TheeKingZa/AirBnB_clone/blob/master/models/README.md)
----
+
 # [Unittest](https://github.com/TheeKingZa/AirBnB_clone/blob/master/tests/README.md)
 
 # Command Interpreter:
