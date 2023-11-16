@@ -1,5 +1,5 @@
 # AirBnB Clone
-# [Authors](https://github.com/TheeKingZa/AirBnB_clone/tree/master/authors) 
+# [Authors](https://github.com/TheeKingZa/AirBnB_clone/blob/master/AUTHORS) 
 
 # Description
 
