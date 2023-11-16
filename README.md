@@ -10,7 +10,7 @@ Read or watch:
 
 * [cmd module](https://docs.python.org/3.8/library/cmd.html)
 * [cmd module in depth](http://pymotw.com/2/cmd/)
-* [packages concept page](#)
+* [packages concept page](https://docs.python.org/3.4/tutorial/modules.html#packages)
 * [uuid module](https://docs.python.org/3.8/library/uuid.html)
 * [datetime](https://docs.python.org/3.8/library/datetime.html)
 * [unittest module](https://docs.python.org/3.8/library/unittest.html#module-unittest)
