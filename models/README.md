@@ -1,6 +1,6 @@
 **Welcome to the AirBnB clone project!**
 ---
-[<..]()
+[<..](https://github.com/TheeKingZa/AirBnB_clone/blob/master/README.md)
 ---
 Before starting, please read the **AirBnB** concept page.
 # Concepts
